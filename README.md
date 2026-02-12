@@ -34,13 +34,10 @@ valid parentheses
 
 How to run code locally:
 For C++ files:
-1. Open terminal in the file directory
-2. Compile the code using:
-g++ filename.cpp
-3.Run the executable:
-./a.out
+In CMD
+g++ file.cpp -o file
+file
 
 For Python files:
-1. Open terminal in the file directory
-2. Run the file using:
-python filename.py
+py file.py
+
